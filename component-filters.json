@@ -27,13 +27,32 @@
       "title",
       "hero",
       "cards",
-      "columns"
+      "columns",
+      "form"
     ]
   },
   {
     "id": "cards",
     "components": [
       "card"
+    ]
+  },
+  {
+    "id": "form",
+    "components": [
+      "plain-text",
+      "text-input",
+      "number-input",
+      "date-input",
+      "panel",
+      "checkbox",
+      "drop-down",
+      "radio-group",
+      "email",
+      "fragment",
+      "form-button",
+      "submit-button",
+      "form-image"
     ]
   }
 ]
