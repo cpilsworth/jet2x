@@ -1,5 +1,5 @@
-# Your Project's Title...
-Your project's description...
+# Crosswalk demo project
+Using AEM editing of forms for Edge Delivery Service
 
 ## Environments
 - Preview: https://main--jet2x--cpilsworth.hlx.page/
