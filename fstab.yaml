@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p31359-e1315637.adobeaemcloud.com/bin/franklin.delivery/cpilsworth/jet2x/main"
+    url: "https://author-p31359-e1338271.adobeaemcloud.com/bin/franklin.delivery/cpilsworth/jet2x/main"
     type: "markup"
     suffix: ".html"
