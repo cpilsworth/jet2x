@@ -1,6 +1,5 @@
 {
   "mappings": [
-    "/content/jet2/:/",
-    "/content/jet2/configuration:/.helix/config.json"
+    "/content/jet2x/:/"
   ]
 }
